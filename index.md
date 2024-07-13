@@ -11,9 +11,11 @@ layout: default
 
 
 {% include current.md %}
+{% include them.md %}
+
 {% include worknotes.md %}
 {% include computer.md %}
-{% include them.md %}
+
 {% include current.md %}
 {% include civic.md %}
 
