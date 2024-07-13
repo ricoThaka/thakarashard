@@ -1,6 +1,12 @@
 
 # Currently Compiling
 
+
+
+[Pryor's Place](https://en.wikipedia.org/wiki/Pryor%27s_Place) Pryor's Place is an American children's television series that aired for one season in 1984 on CBS. The live-action series starred comedian [Richard Pryor](https://www.youtube.com/watch?v=19_T_XwobIs) ~ similar to [SesameStreet](https://archive.org/details/sesame-street-1980s)[Sesame Street Episode 4081](https://archive.org/details/sesame-street-episode-4081) [Computer Hacking Documentries Mega Collection](https://archive.org/details/ComputerHackingDocumentriesMegaCollection)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yKyK29z-9zA?si=qSpcY1MlqGnsgkAZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ![Normani injured ?](https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xODc3ODI1OS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTcyNDIyNTY4NH0.Myu--480C-LaypA0MlVj728XjWjPgVsDjuZ0JuqAwmY/img.jpg?width=1200&height=600&coordinates=0%2C312%2C0%2C312)
 
 <video controls  height="auto" poster="https://www.emugifs.net/wp-content/uploads/2022/03/Neo-Geo-Startup-Bios-Screen-Max-330-Mega-Pro-Gear-Spec-SNK-Intro-Download-Free-Animated-GIF.gif">
