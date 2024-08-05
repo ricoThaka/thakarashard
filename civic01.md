@@ -10,6 +10,9 @@ layout: default
 4 # UNiVERSE#####################iloveyounormani____######
 {% endhighlight %}
 
+[Los Angeles Architecture](https://x.com/asmaragraphy/status/1820147075343909325)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Edaga Hamus ! Hope everyone is having a blessed Sunday !<a href="https://twitter.com/hashtag/Asmara?src=hash&amp;ref_src=twsrc%5Etfw">#Asmara</a> <a href="https://twitter.com/hashtag/Eritrea?src=hash&amp;ref_src=twsrc%5Etfw">#Eritrea</a> <a href="https://twitter.com/hashtag/Eritrean?src=hash&amp;ref_src=twsrc%5Etfw">#Eritrean</a> <a href="https://t.co/WzyaAn0qN9">pic.twitter.com/WzyaAn0qN9</a></p>&mdash; Asmara ኣስመራ (@asmaragraphy) <a href="https://twitter.com/asmaragraphy/status/1820147075343909325?ref_src=twsrc%5Etfw">August 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 [Must Be dues - Melba Moore - song](https://www.youtube.com/watch?v=Cg1j3kMD2a4)
 [Smokey and the Bandit](https://lastchancepowerdrive.com/2019/08/10/smokey-and-the-bandit-filming-sites/)
